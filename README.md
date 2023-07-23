@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TamehDave19
-- 👀 I’m interested in software coding
+- 👀 I’m interested in software programming
 - 🌱 I’m currently learning Python, Java, HTML, and C.
-- 📫 How to reach me is through my email davistameh7@gmail.com
+- 📫 Reach me through davistameh7@gmail.com
 
 <!---
 TamehDave19/TamehDave19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
