@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TamehDave19
 - 👀 I’m interested in software programming
-- 🌱 I’m currently learning Python, Java, HTML, and C.
+- 🌱 I’m highly proficient in Javascript, Python, Kotlin, C#, React/Native, HTML + CSS
 - 📫 Reach me through davistameh7@gmail.com
 
 <!---
